@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @halaOmer
+- Data Analyst/ EXCEL / POWER BI / POWER QUERY
 - 👀 I’m interested in web developement
 - 📫 How to reach me https://www.linkedin.com/in/hala-ibnomer-954a30213
 
